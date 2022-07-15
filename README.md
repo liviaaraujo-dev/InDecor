@@ -1,6 +1,6 @@
 # InDecor
 
-Uma landing page do evento InDecor, focado em design de interiores.
+Uma landing page do evento InDecor, focado em design de interiores.<br>
 <https://liviaaraujo69.github.io/InDecor/>
 
 ## Tecnologias
