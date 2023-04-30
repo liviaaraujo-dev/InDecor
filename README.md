@@ -1,7 +1,7 @@
 # InDecor
 
 Uma landing page do evento InDecor, focado em design de interiores.<br>
-<https://liviatec.github.io/InDecor//>
+<https://liviaaraujo-dev.github.io/InDecor//>
 
 ## Tecnologias
 - HTML
